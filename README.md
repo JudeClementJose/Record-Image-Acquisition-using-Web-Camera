@@ -74,7 +74,7 @@ plt.title('Captured Frame')
 plt.axis('off')
 plt.show()
 ```
-<img width="666" height="510" alt="image" src="https://github.com/user-attachments/assets/06d8fa0f-1f88-4ca7-935f-7a44783a3382" />
+<img width="637" height="497" alt="image" src="https://github.com/user-attachments/assets/a4ae86f2-44f1-4f5f-8821-edec9c1de504" />
 
 ### ii) Display the video
 Live webcam video is displayed
